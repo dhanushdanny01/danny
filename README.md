@@ -1,4 +1,4 @@
 # danny
 this is my first git repository.
 <br>
-author - danny
+author - danny(vardhaman college)
